@@ -15,9 +15,10 @@ Gegenüber dem Original ergeben sich dadurch folgende Vorteile:
 * menügeführte Bedienung
 * vom Computer unabhängiger Betrieb
 
-
 ## Hardware
+Der mechanische Aufbau und die grundlegende Verdrahtung des Hochregallagers erfolgen entsprechend der fischertechnik Bauanleitung „ROBO TX Automation Robots“.
 
+Der folgende Schaltplan zeigt die für die ftDuino-Steuerung erforderliche Hardware-Erweiterung.
 ## Software
 
 ## Dokumentation
