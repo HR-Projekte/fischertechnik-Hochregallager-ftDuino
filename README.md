@@ -1,9 +1,6 @@
 # fischertechnik Hochregallager mit ftDuino
 
 Programme, Dokumentationen und weitere Unterlagen zu meinem fischertechnik Hochregallager mit ftDuino-Steuerung.
-# fischertechnik Hochregallager mit ftDuino
-
-Programme, Dokumentationen und weitere Unterlagen zu meinem fischertechnik Hochregallager mit ftDuino-Steuerung.
 
 ## Projektbeschreibung
 Die hier vorgestellte Variante des fischertechnik Hochregallagers wird mit einem **ftDuino-Controller** gesteuert. An dessen I²C-Port werden eine **4×4-Matrixtastatur** und ein **0,96"-OLED-Display** betrieben.
