@@ -23,6 +23,8 @@ Eine billigere alternative I2C-Konfiguration gibt's hier:
 [I2C-Alternative](https://github.com/HR-Projekte/ft-Hochregallager-und-ft-3-Achs-Roboter/blob/main/Bilder/I2C-alternativ.jpg)
 
 ## Software
+Das Steuerungsprogramm für das Hochregallager ist als Arduino-Sketch abgelegt.
+[Arduino-Programm Hochregallager](Programme/Hochregallager/)
 
 ## Dokumentation
 [Die Menüstruktur](https://github.com/HR-Projekte/ft-Hochregallager-und-ft-3-Achs-Roboter/blob/main/Dokumentation/Menue-Ablauf.pdf)
