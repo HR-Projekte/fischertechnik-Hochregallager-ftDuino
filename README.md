@@ -25,5 +25,6 @@ Eine billigere alternative I2C-Konfiguration gibt's hier:
 ## Software
 
 ## Dokumentation
+[Die Menüstruktur](https://raw.githubusercontent.com/HR-Projekte/ft-Hochregallager-und-ft-3-Achs-Roboter/main/Dokumentation/Menue-Ablauf.pdf)
 
 ## Videos
