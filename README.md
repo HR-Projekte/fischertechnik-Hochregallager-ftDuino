@@ -15,7 +15,7 @@ Gegenüber dem Original ergeben sich dadurch folgende Vorteile:
 ## Hardware
 Der mechanische Aufbau und die grundlegende Verdrahtung des Hochregallagers erfolgen entsprechend der fischertechnik Bauanleitung „ROBO TX Automation Robots“.
 
-Der folgende Schaltplan zeigt die für die im YouTube-Video verwendete Hardware-Erweiterung.
+Der folgende Schaltplan zeigt die im YouTube-Video verwendete Hardware-Erweiterung.
 
 ![Hardware-Erweiterung](https://raw.githubusercontent.com/HR-Projekte/ft-Hochregallager-und-ft-3-Achs-Roboter/main/Bilder/Hardware-Erweiterung.jpg)
 
