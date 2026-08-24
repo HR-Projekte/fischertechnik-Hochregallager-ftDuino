@@ -19,6 +19,9 @@ Der folgende Schaltplan zeigt die im YouTube-Video verwendete Hardware-Erweiteru
 
 ![Hardware-Erweiterung](https://raw.githubusercontent.com/HR-Projekte/ft-Hochregallager-und-ft-3-Achs-Roboter/main/Bilder/Hardware-Erweiterung.jpg)
 
+Eine billigere alternative I2C-Konfiguration gibt's hier:
+[I2C-Alternative](https://raw.githubusercontent.com/HR-Projekte/ft-Hochregallager-und-ft-3-Achs-Roboter/main/Bilder/I2C-alternativ.jpg)
+
 ## Software
 
 ## Dokumentation
