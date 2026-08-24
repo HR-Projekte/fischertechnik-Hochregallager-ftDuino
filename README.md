@@ -17,7 +17,7 @@ Der mechanische Aufbau und die grundlegende Verdrahtung des Hochregallagers erfo
 
 Der folgende Schaltplan zeigt die für die ftDuino-Steuerung erforderliche Hardware-Erweiterung.
 
-![Hardware-Erweiterung](Bilder/Hardware%20Erweiterung.jpg)
+![Hardware-Erweiterung](https://raw.githubusercontent.com/HR-Projekte/ft-Hochregallager-und-ft-3-Achs-Roboter/main/Bilder/Hardware-Erweiterung.jpg)
 
 ## Software
 
