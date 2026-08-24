@@ -24,6 +24,7 @@ Eine billigere alternative I2C-Konfiguration gibt's hier:
 
 ## Software
 Das Steuerungsprogramm für das Hochregallager ist als Arduino-Sketch abgelegt.
+
 [Arduino-Programm Hochregallager](Programme/Hochregallager/)
 
 ## Dokumentation
