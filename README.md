@@ -17,7 +17,10 @@ Der mechanische Aufbau und die grundlegende Verdrahtung des Hochregallagers erfo
 
 Der folgende Schaltplan zeigt die im YouTube-Video verwendete Hardware-Erweiterung.
 
-![Hardware-Erweiterung](https://raw.githubusercontent.com/HR-Projekte/ft-Hochregallager-und-ft-3-Achs-Roboter/main/Bilder/Hardware-Erweiterung.jpg)
+![Hardware-Erweiterung](https://raw.githubusercontent.com/HR-Projekte/ft-Hochregallager-und-ft-3-Achs-Roboter/main/Bilder/I2C-Konfiguration.jpg)
+
+Optionale Ergänzung:
+[Hardware Option](https://github.com/HR-Projekte/ft-Hochregallager-und-ft-3-Achs-Roboter/blob/main/Bilder/Hardware-option.jpg)
 
 Eine billigere alternative I2C-Konfiguration gibt's hier:
 [I2C-Alternative](https://github.com/HR-Projekte/ft-Hochregallager-und-ft-3-Achs-Roboter/blob/main/Bilder/I2C-alternativ.jpg)
