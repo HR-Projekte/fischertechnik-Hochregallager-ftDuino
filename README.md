@@ -19,10 +19,10 @@ Der mechanische Aufbau und die grundlegende Verdrahtung des Hochregallagers erfo
 
 Optionale Ergänzung:
 [Hardware Option](https://github.com/HR-Projekte/ft-Hochregallager-und-ft-3-Achs-Roboter/blob/main/Bilder/Hardware-option.jpg)  
-und die stl-Datei für das:
-[Keypad_70x78](https://raw.githubusercontent.com/HR-Projekte/ft-Hochregallager-und-ft-3-Achs-Roboter/main/3D-Druck/Keypad_70x78.stl)
+und die stl-Datei für das
+[Keypad_70x78](https://raw.githubusercontent.com/HR-Projekte/ft-Hochregallager-und-ft-3-Achs-Roboter/main/3D-Druck/Keypad_70x78.stl) zum Download.
 
-Eine billigere alternative I2C-Konfiguration gibt's hier:
+Eine billigere 
 [I2C-Alternative](https://github.com/HR-Projekte/ft-Hochregallager-und-ft-3-Achs-Roboter/blob/main/Bilder/I2C-alternativ.jpg)
 
 ## Stücklisten
