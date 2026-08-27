@@ -17,9 +17,6 @@ Gegenüber dem Original ergeben sich dadurch folgende Vorteile:
 ## Hardware
 Der mechanische Aufbau und die grundlegende Verdrahtung des Hochregallagers erfolgen entsprechend der fischertechnik Bauanleitung „ROBO TX Automation Robots“.
 
-Schaltplan für die im Video verwendete
-[Hardware-Erweiterung](https://github.com/HR-Projekte/ft-Hochregallager-und-ft-3-Achs-Roboter/blob/main/Bilder/I2C-Konfiguration.jpg?raw=true)
-
 Optionale Ergänzung:
 [Hardware Option](https://github.com/HR-Projekte/ft-Hochregallager-und-ft-3-Achs-Roboter/blob/main/Bilder/Hardware-option.jpg)
 und die stl-Datei für das:
@@ -27,6 +24,15 @@ und die stl-Datei für das:
 
 Eine billigere alternative I2C-Konfiguration gibt's hier:
 [I2C-Alternative](https://github.com/HR-Projekte/ft-Hochregallager-und-ft-3-Achs-Roboter/blob/main/Bilder/I2C-alternativ.jpg)
+
+
+## Stücklisten
+Bauteile für das Hochregallager ohne Steuerung:
+[Einzelteile-Grundmaschine](Einzelteile-Grundmaschine.pdf)   
+
+## Schltpläne
+Schaltplan für die im Video verwendete
+[Hardware-Erweiterung](https://github.com/HR-Projekte/ft-Hochregallager-und-ft-3-Achs-Roboter/blob/main/Bilder/I2C-Konfiguration.jpg?raw=true)
 
 ## Software
 Das Steuerungsprogramm für das Hochregallager ist als Arduino-Sketch abgelegt.
