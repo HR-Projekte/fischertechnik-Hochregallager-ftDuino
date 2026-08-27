@@ -27,7 +27,7 @@ Eine billigere alternative I2C-Konfiguration gibt's hier:
 
 ## Stücklisten
 Bauteile für das Hochregallager ohne Steuerung:
-[Einzelteile-Grundmaschine](Einzelteile-Grundmaschine.pdf)   
+[Einzelteile-Grundmaschine](Stücklisten/Einzelteile-Grundmaschine.pdf)   
 
 ## Schltpläne
 Schaltplan für die im Video verwendete
