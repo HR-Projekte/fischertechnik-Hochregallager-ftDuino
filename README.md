@@ -27,7 +27,10 @@ Eine billigere alternative I2C-Konfiguration gibt's hier:
 
 ## Stücklisten
 Bauteile für das Hochregallager ohne Steuerung:
-[Einzelteile-Grundmaschine](Stücklisten/Einzelteile-Grundmaschine.pdf)   
+[Einzelteile-Grundmaschine](Stücklisten/Einzelteile-Grundmaschine.pdf)
+
+Bauteile für die Steuerung
+[Einzelteile-Steuerung](https://github.com/HR-Projekte/ft-Hochregallager-und-ft-3-Achs-Roboter/blob/main/Stücklisten/Einzelteile-Steuerung.pdf)
 
 ## Schltpläne
 Schaltplan für die im Video verwendete
