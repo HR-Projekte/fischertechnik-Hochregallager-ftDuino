@@ -33,8 +33,6 @@ Bauteile für das Hochregallager ohne Steuerung:
 Bauteile für die Steuerung
 [Einzelteile-Steuerung](https://github.com/HR-Projekte/ft-Hochregallager-und-ft-3-Achs-Roboter/blob/main/Stücklisten/Einzelteile-Steuerung.pdf)
 
-## Schltpläne
-
 ## Software
 Das Steuerungsprogramm für das Hochregallager ist als Arduino-Sketch abgelegt.  
 [Arduino-Programm Hochregallager](Programme/Hochregallager/)
