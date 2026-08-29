@@ -37,6 +37,17 @@ Bauteile für die Steuerung
 Das Steuerungsprogramm für das Hochregallager ist als Arduino-Sketch abgelegt.  
 [Arduino-Programm Hochregallager](Programme/Hochregallager/)
 
+#### Weiterentwicklung
+
+Rückblickend wäre es insbesondere im Hinblick auf die Übersichtlichkeit sinnvoll gewesen, das Hauptprogramm `Hochregallager.ino` stärker modular aufzubauen. Während der Entwicklungsphase hat es sich jedoch als vorteilhaft erwiesen, die Funktionen zunächst gemeinsam in einer Datei zu entwickeln.
+
+Ein möglicher nächster Schritt wäre die Auslagerung der Displaysteuerung in eigene Dateien, beispielsweise:
+
+`DisplayAnzeige.cpp`
+`DisplayAnzeige.h`
+
+Nach diesem Prinzip könnten anschließend weitere Funktionsbereiche des Programms schrittweise modularisiert werden.
+
 ## Dokumentation
 Ein Flussdiagramm zur 
 [Menüstruktur](https://github.com/HR-Projekte/ft-Hochregallager-und-ft-3-Achs-Roboter/blob/main/Dokumentation/Menue-Ablauf.pdf)
