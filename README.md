@@ -7,7 +7,7 @@ Programme, Dokumentationen und weitere Unterlagen zu meinem fischertechnik Hochr
 ## Projektbeschreibung
 Die hier vorgestellte Variante des fischertechnik Hochregallagers wird mit einem **ftDuino-Controller** gesteuert. An dessen I²C-Port werden eine **4×4-Matrixtastatur** und ein **0,96"-OLED-Display** betrieben.
 
-Gegenüber dem Original ergeben sich dadurch folgende Vorteile:
+Diese Steuerung bietet dem Modell folgende Eigenschaften:
 
 * kostengünstige Steuerungshardware
 * Programmierung auf Basis von C++ bzw. C
