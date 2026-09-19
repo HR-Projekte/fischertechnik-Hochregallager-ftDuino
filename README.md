@@ -35,7 +35,7 @@ Bauteile für die Steuerung
 
 ## Software
 Das Steuerungsprogramm für das Hochregallager ist als Arduino-Sketch abgelegt.  
-[Arduino-Programm Hochregallager](Programme/Hochregallager/)
+[Arduino-Programm Hochregallager](Programme/)
 
 #### Weiterentwicklung
 
